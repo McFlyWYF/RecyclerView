@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="search_button">搜索</string>
+    <string name="search_edit">请输入搜索的内容</string>
+</resources>
